@@ -1,0 +1,37 @@
+Date : 10-03-2024
+
+Interview  Round : (first introduce yourself)
+
+1. What is SSR (Server side rendering) and CSR (Client side rendering)
+2. Find the number of occurence in given array and also print count of that (I use collection : hashmap)
+3. OOPs in java explain with example
+4. Explain design patterns used in your project
+5. swapping of to number without using temperary and arithmatic operation
+6. difference between class level variable and static variable 
+7. given the following hirarchy and convert it into JSON format
+
+	college
+		|
+		|
+		classes
+			|
+			|
+			divisions
+				|
+				|
+				students
+
+8. What is JWT. the Implementation of JWT in your project. If we want to give the authorization in multiple pages in the website then can we use JWT ?
+9. Flow of the project
+
+
+Manageral Round : 
+
+1. Why we use annotation "@" in spring boot
+2. How you implement DFS in your code to find path between @ to # (in coding round there is a question to finding path between @ and #)
+3. What is polymorphism ?
+4. how execution works when .cpp and .java file executes ?
+5. I completed my internship in frontend so all questions are asked on my internship.
+6. some HR question
+7. why we use circular lead for water tank, pipes, drange hole. (purely based on maths and mind twister)
+8. code is given. in 2D array how you implement backtraking and DFS algorithms 

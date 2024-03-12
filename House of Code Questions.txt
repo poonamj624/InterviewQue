@@ -1,0 +1,57 @@
+Name of company: House Of Code (HOC)
+Date: 07/03/2024
+Your name: Kunal Dhanawade
+Technologies: C#, MS.NET and MySQL
+
+Interview Round 1: Technical
+1) introduction + project
+2) What is a Class and what does it contain?
+3) 4 pillars of OOPS with example
+4) method overriding
+5) Parameterized Constructor
+6) Destructor and finalize()
+7) Dispose method
+8) requirements for dispose method
+9) Managed vs Unmanaged Resources
+10) Dependency Injection and its types
+11) are you aware of any tools used for dependency injection?
+12) all types of constraints in SQL
+13) Query to find the second highest salary (use rank function)
+14) what if there are duplicate records in salary column?
+15) if there are a 1000 rows in your table and you want to access the 999th record, to speed up your select query, what will you do?
+16) explain the concept of Indexes?
+17) transactions in SQL
+18) inner and outer joins
+
+Interview Round 2: Technical + HR
+
+HR:
+1) introduction + project
+2) my role in project
+3) my job as team leader
+4) about previous internship
+5) why should we hire you?
+6) about HOC
+7) are you interested to work in Machine learning?
+
+Technical
+1) how much would you rate yourself in DotNet and SQL?
+2) difference between protected and protected-internal access modifier
+3) difference between Value Type and Reference Type
+4) abstract method and abstract class
+5) virtual keyword
+6) can we instantiate abstract class?
+7) can we use abstract method as a type? how? its advantages?
+8) private constructor
+9) sealed keyword
+10) what do I and D stand for in SOLID principles? what do they mean?
+11) what is garbage collection?
+12) difference between string and string builder
+13) What will be the output of:
+		string str = "abc xyz";
+		str.Replace("abc", "xyz");
+		str.Replace("xyz", "abc");
+		Console.WriteLine("str: " + str);
+14) trick questions about use of where clause, having clause and aggregate functions
+
+
