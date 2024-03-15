@@ -1,0 +1,267 @@
+A software engineer is a person who applies the principles of software engineering to the design, development, maintenance, testing, and evaluation of the software and systems that make computers or anything containing software work
+
+
+
+
+Search Results
+
+    What does a Computer Software Engineer do? Could you ...
+    tryengineering.org/.../what-does-computer-software-engineer-do-could-...
+    Computer software engineers apply the principles and techniques of computer science, engineering, and mathematical analysis to the design, development, testing, and evaluation of the software and the systems that enable computers to perform their many applications.
+
+
+
+What does a Software Engineer do? - Sokanu
+https://www.sokanu.com/careers/software-engineer/
+A software engineer applies mathematical analysis and the principles of computer science in order to design and develop computer software. There are many types of software that a software engineer can develop, such as operating systems, computer games, middleware, business applications and network control systems.
+
+
+
+
+
+
+Software Engineering vs. Computer Science
+
+There is significant overlap between software engineering and computer science degree programs. Professionals in the two fields often compete for the same positions. There are distinctions in their education, however, and in the future, there may be distinctions in what roles they are allowed to perform.
+
+Software engineering is an engineering discipline. A licensing examination is under development; stakeholders believe that within two years, a number of states will be licensing those software developers whose work impacts safety and public welfare. Moreover, many people in the field believe that software development should be approached as an engineering discipline, even when it doesn’t have a direct bearing on public safety. [Find Software Engineering programs in your region]
+Computer Scientists test theories and work at the edge of the unknown. Engineers start with knowledge that has already proven reliable. ~ Steve McConnell
+
+In Professional Software Development, Steve McConnell argues that software development should follow the principles of engineering. Scientists research and extend scientific knowledge; they test theories and work at the edge of the unknown. Engineers start with knowledge that has already proven reliable. Their job is to create designs that work. Engineers need breadth, or broad scope, to their education while scientists need depth in narrow branches of knowledge. McConnell suggests that it is better to have a degree in computer science than to work in software development without a related degree. Still, a traditional computer science degree, with its focus on the theoretical aspects of the profession, does not always provide the best education. [Find a Computer Science Program in your area]
+Software Engineering and Computer Science Degree Programs
+
+Realize that the term software engineering is sometimes over-applied. Some companies choose to use the title software engineer even if a particular position does not require engineering. Also, some programs that are titled software engineering are not accredited by the Accreditation Board for Engineering and Technology (ABET). For this reason, there is some confusion among future software developers about the distinctions between programs.
+
+Some schools offer separate tracks in computer science and software engineering. The two tracks will generally include some common courses, but a different overall architecture. Both computer science and software engineering programs are accredited by ABET. Computer science falls under the banner of the Computing Accreditation Commission, though, while computer engineering is the responsibility of the Engineering Accreditation Commission. There are significant differences in requirements. Software engineering programs include a design project; through this project, a future software engineer displays his or her ability to apply engineering principles in the real world. The senior project may be very applicable to a software engineer’s future work.
+
+Students and graduates of computer science and software engineering programs cite a variety of differences. Courses in computer science often place greater emphasis on the theoretical. They emphasize algorithms. Traditionally, they have been considered good preparation for graduate level research. According to the BLS, they also prove useful for systems software engineering.
+
+Some graduates report that computer science courses include more mathematics. This is not always the case, however. At Auburn University, Calculus III is listed as a requirement for the software engineering degree (as of the 2010 – 2011 school year) but not the computer science one. Both programs include some computer electives which allow candidates to tailor the program to meet individual goals.
+Choosing a Degree Program
+
+The lines between the two tracks have blurred a bit as some computer science programs have borrowed from the newer software engineering field. You may well find engineering courses in your computer science curriculum. If you envision yourself working in a field like embedded software, you’ll likely want an engineering degree of some sort. If you are not intending to work in a high-stakes arena, you may allow your interests and beliefs (as well as program reputation) to dictate your choice. Do you share McDonnell’s belief that developers should be engineers?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Job Search Advice
+
+    Home
+    Career Profiles and Employment Projections
+    Software Developers: Career, Salary and Education Information
+
+Software Developers
+Career, Salary and Education Information
+Go to: What They Do | Work Environment | How to Become One | Pay | Job Outlook | Related Careers
+Top 3 software developer Jobs
+
+    Junior Software Developer and Product Support - Mursion, Inc. - San Francisco, CA
+
+    Portfolio Strong programming skills (C#, C++ and .NET) Experience developing projects in Unity 3D or other Game Engines Interest and…
+    Account Executive (Inside Sales) - Avvo - Seattle, WA
+
+    Avvo is looking for stellar Inside Sales people to further develop our sales function. This position will grow Avvo’s…
+    Client Services Specialist - Verisight - Folsom, CA
+
+    The Client Service Specialist focuses on assisting and resolving retirement plan participant’s direct requests and issues by answering incoming…
+
+See all software developer jobs
+What They Do [About this section] [To Top]
+
+Software developers are the creative minds behind computer programs. Some develop the applications that allow people to do specific tasks on a computer or other device. Others develop the underlying systems that run the devices or control networks.
+Duties
+
+Software developers typically do the following:
+
+    Analyze users' needs, then design, test, and develop software to meet those needs
+    Recommend software upgrades for customers' existing programs and systems
+    Design each piece of the application or system and plan how the pieces will work together
+    Create a variety of models and diagrams (such as flowcharts) that instruct programmers how to write the software code
+    Ensure that the software continues to function normally through software maintenance and testing
+    Document every aspect of the application or system as a reference for future maintenance and upgrades
+    Collaborate with other computer specialists to create optimum software
+
+Software developers are in charge of the entire development process for a software program. They begin by asking how the customer plans to use the software. They design the program and then give instructions to programmers, who write computer code and test it. If the program does not work as expected or people find it too difficult to use, software developers go back to the design process to fix the problems or improve the program. After the program is released to the customer, a developer may perform upgrades and maintenance.
+
+Developers usually work closely with computer programmers. However, in some companies, developers write code themselves instead of giving instructions to computer programmers.
+
+Developers who supervise a software project from the planning stages through implementation sometimes are called information technology (IT) project managers. These workers monitor the project's progress to ensure that it meets deadlines, standards, and cost targets. IT project managers who plan and direct an organization's IT department or IT policies are included in the profile on computer and information systems managers.
+
+The following are types of software developers:
+
+Applications software developers design computer applications, such as word processors and games, for consumers. They may create custom software for a specific customer or commercial software to be sold to the general public. Some applications software developers create complex databases for organizations. They also create programs that people use over the Internet and within a company's intranet.
+
+Systems software developers create the systems that keep computers functioning properly. These could be operating systems that are part of computers the general public buys or systems built specifically for an organization. Often, systems software developers also build the system's interface, which is what allows users to interact with the computer. Systems software developers create the operating systems that control most of the consumer electronics in use today, including those in phones or cars.
+Work Environment [About this section] [To Top]
+
+Software developers held about 1 million jobs in 2012.
+
+Many software developers work for computer systems design and related services firms or software publishers. Some systems developers work in computer and electronic product manufacturing industries. Applications developers work in office environments, such as for insurance carriers or corporate headquarters.
+
+In general, software development is a collaborative process and developers work on teams with others, who contribute to designing, developing, and programming successful software. However, some developers telecommute (work away from the office).
+
+The industries that employed the most software developers in 2012 were as follows:
+Computer systems design and related services 	32%
+Computer and electronic product manufacturing 	9
+Finance and insurance 	8
+Software publishers 	7
+Work Schedules
+
+Most software developers work full time, and long hours are common. More than a quarter worked more than 40 hours per week in 2012.
+How to Become One [About this section] [To Top]
+
+Software developers usually have a bachelor's degree in computer science and strong computer programming skills.
+Education
+
+Get the education you need: Find schools for Software Developers near you!
+
+Software developers usually have a bachelor's degree, typically in computer science, software engineering, or a related field. A degree in mathematics is also acceptable. Computer science degree programs are the most common, because they tend to cover a broad range of topics. Students should focus on classes related to building software in order to better prepare themselves for work in the occupation. For some positions, employers may prefer a master's degree.
+
+Although writing code is not their first priority, developers must have a strong background in computer programming. They usually gain this experience in school. Throughout their career, developers must keep up to date on new tools and computer languages.
+
+Software developers also need skills related to the industry in which they work. Developers working in a bank, for example, should have knowledge of finance so that they can understand a bank's computing needs.
+Other Experience
+
+Many students gain experience in software development by completing an internship at a software company while in college.
+
+Some software developers first work as computer programmers, and as they gain more experience they are given more responsibility and eventually become a developer.
+Advancement
+
+Software developers can advance to become information technology (IT) project managers, also called computer and information systems managers, and oversee the software development process.
+Important Qualities
+
+Analytical skills. Developers must analyze users' needs and then design software to meet those needs.
+
+Communication skills . Developers must be able to give clear instructions to others working on a project.
+
+Computer skills. Developers must understand computer capabilities and languages in order to design effective software.
+
+Creativity. Developers are the creative minds behind new computer software.
+
+Customer-service skills. Some developers must be able to explain to their customers how the software works and answer any questions that arise.
+
+Detail oriented. Developers often work on many parts of an application or system at the same time and must be able to concentrate and pay attention to detail.
+
+Interpersonal skills. Software developers must be able to work well with others who contribute to designing, developing, and programming successful software.
+
+Problem-solving skills. Because developers are in charge of the software from beginning to end, they must be able to solve problems that arise throughout the design process.
+
+Would a career as a Software Developer be a good fit for you? Take our Career Test to find out.
+Pay [About this section] [More salary/earnings info] [To Top]
+
+The median annual wage for applications software developers was $90,060 in May 2012. The median wage is the wage at which half the workers in an occupation earned more than that amount and half earned less. The lowest 10 percent earned less than $55,190, and the top 10 percent earned more than $138,880.
+
+The median annual wage for systems software developers was $99,000 in May 2012. The lowest 10 percent earned less than $62,800, and the top 10 percent earned more than $148,850.
+
+In May 2012, the median annual wages for applications software developers in the top four industries in which these developers worked were as follows:
+Computer and electronic product manufacturing 	$97,960
+Software publishers 	96,920
+Finance and insurance 	91,970
+Computer systems design and related services 	88,500
+
+In May 2012, the median annual wages for systems software developers in the top four industries in which these developers worked were as follows:
+Computer and electronic product manufacturing 	$105,030
+Finance and insurance 	99,940
+Software publishers 	99,750
+Computer systems design and related services 	98,500
+
+Most software developers work full time, and long hours are common. More than a quarter worked more than 40 hours per week in 2012.
+Job Outlook [About this section] [To Top]
+
+Employment of software developers is projected to grow 22 percent from 2012 to 2022, much faster than the average for all occupations. Employment of applications developers is projected to grow 23 percent, and employment of systems developers is projected to grow 20 percent.
+
+The main reason for the rapid growth is a large increase in the demand for computer software. Mobile technology requires new applications. The healthcare industry is greatly increasing its use of computer systems and applications. Also, concerns over threats to computer security could result in more investment in security software to protect computer networks and electronic infrastructure.
+
+Systems developers are likely to see new opportunities because of an increase in the number of products that use software. For example, computer systems are built into consumer electronics, such as cell phones, and into other products that are becoming computerized, such as appliances. In addition, an increase in software offered over the Internet should lower costs and allow more customization for businesses, also increasing demand for software developers.
+
+Some outsourcing to foreign countries with lower wages may occur. However, because software developers should be close to their customers, the offshoring of this occupation is expected to be limited.
+Job Prospects
+
+Job prospects will be best for applicants with knowledge of the most up-to-date programming tools and languages.
+Employment projections data for Software Developers, 2012-22 Occupational Title 	Employment, 2012 	Projected Employment, 2022 	Change, 2012-22
+Percent 	Numeric
+
+SOURCE: U.S. Bureau of Labor Statistics, Employment Projections program
+
+Software developers
+	1,018,000 	1,240,600 	22 	222,600
+
+Software developers, applications
+	613,000 	752,900 	23 	139,900
+
+Software developers, systems software
+	405,000 	487,800 	20 	82,800
+Related Careers[About this section] [To Top]
+Computer and Information Research Scientists
+
+Computer and information research scientists invent and design new approaches to computing technology and find innovative uses for existing technology. They study and solve complex problems in computing for business, medicine, science, and other fields.
+Computer and Information Systems Managers
+
+Computer and information systems managers, often called information technology (IT) managers or IT project managers, plan, coordinate, and direct computer-related activities in an organization. They help determine the information technology goals of an organization and are responsible for implementing computer systems to meet those goals.
+Computer Hardware Engineers
+
+Computer hardware engineers research, design, develop, and test computer systems and components such as processors, circuit boards, memory devices, networks, and routers. By creating new directions in computer hardware, these engineers create rapid advances in computer technology.
+Computer Network Architects
+
+Computer network architects design and build data communication networks, including local area networks (LANs), wide area networks (WANs), and intranets. These networks range from a small connection between two offices to a multinational series of globally distributed communications systems.
+Computer Programmers
+
+Computer programmers write code to create software programs. They turn the program designs created by software developers and engineers into instructions that a computer can follow.
+Computer Support Specialists
+
+Computer support specialists provide help and advice to people and organizations using computer software or equipment. Some, called computer network support specialists, support information technology (IT) employees within their organization. Others, called computer user support specialists, assist non-IT users who are having computer problems.
+Computer Systems Analysts
+
+Computer systems analysts study an organization’s current computer systems and procedures and design information systems solutions to help the organization operate more efficiently and effectively. They bring business and information technology (IT) together by understanding the needs and limitations of both.
+Database Administrators
+
+Database administrators (DBAs) use specialized software to store and organize data, such as financial information and customer shipping records. They make sure that data are available to users and are secure from unauthorized access.
+Information Security Analysts
+
+Information security analysts plan and carry out security measures to protect an organization's computer networks and systems. Their responsibilities are continually expanding as the number of cyberattacks increase.
+Mathematicians
+
+Mathematicians use advanced mathematics to develop and understand mathematical principles, analyze data, and solve real-world problems.
+Postsecondary Teachers
+
+Postsecondary teachers instruct students in a wide variety of academic and vocational subjects beyond the high school level. They also conduct research and publish scholarly papers and books.
+Web Developers
+
+Web developers design and create websites. They are responsible for the look of the site. They are also responsible for the site’s technical aspects, such as performance and capacity, which are measures of a website’s speed and how much traffic the site can handle. They also may create content for the site.
+
+
+*Source: Bureau of Labor Statistics, U.S. Department of Labor. Used by permission.
+
+Explore more careers: View all Careers or Browse Careers by Category
+
+    Employers: Post Jobs
+    Job Search Advice:
+    Careers
+    Resumes
+    Interviewing
+
+    © 2015 CollegeGrad LLC
+    Privacy
+    Contact
+    About
+
+AddThis Sharing
+Share
+FacebookTwitterGoogle+LinkedInEmailMore
